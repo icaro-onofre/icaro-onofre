@@ -1,10 +1,8 @@
 ### Hi there 👋
 As you may know my name is Icaro Onofre Silva(Icaro as in the myth Icarus!), 
-I am an enthusiast of computers and computer programming and I am currently working as 
-a full stack developer. I have a couple of projects that vary acording to which is 
+I am an enthusiast of computers and full stack developer I am currently working as 
+a full stack developer. I have a couple of projects that vary acording to which is the
 main motivation at the moment, check out my portifolio and see the main repos of my github!
-I always summarize the scope, technologies, solution and the problem that I am dealing in the
-project in the README of the project.
 <!--
 **icaro-onofre/icaro-onofre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
