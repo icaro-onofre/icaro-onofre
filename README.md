@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 As you may know my name is Icaro Onofre Silva(Icaro as in the myth Icarus!), 
 I am an enthusiast of computers and full stack developer I am currently working as 
 a full stack developer. I have a couple of projects that vary acording to which is the
