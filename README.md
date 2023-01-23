@@ -19,4 +19,3 @@ main motivation at the moment, check out my portifolio and see the main repos of
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Predoh1709&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Predoh1709&theme=github_dark) |
 |:-:| :-: |
 
-![Snake animation](https://github.com/Predoh1709/Predoh1709/blob/output/github-contribution-grid-snake.svg)
