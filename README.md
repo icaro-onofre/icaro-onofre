@@ -16,6 +16,6 @@ main motivation at the moment, check out my portifolio and see the main repos of
 </div><br/>
 
 ### 📊 Github Account Stats:
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=icaro-onofre&theme=github_light) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icaro-onofre&theme=github_light) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=icaro-onofre&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icaro-onofre&theme=github_dark) |
 |:-:| :-: |
 
