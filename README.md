@@ -10,7 +10,7 @@ main motivation at the moment, check out my portifolio and see the main repos of
   <img align="center" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
   <img align="center" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
   <img align="center" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-  <img align="center" src="https://img1.gratispng.com/20180403/rww/kisspng-mongodb-node-js-npm-open-source-model-angularjs-leaf-5ac44d9eb3d294.1874788615228143667366.jpg" width="40" height="40" />
+  <img align="center" src="https://cdn.cdnlogo.com/logos/m/30/mongodb-icon.svg" width="40" height="40" />
 
 
 </div><br/>
