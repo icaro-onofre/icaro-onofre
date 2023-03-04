@@ -1,9 +1,8 @@
 ### Hi 👋
-As you may know my name is Icaro Onofre Silva(Icaro as in the myth Icarus!), 
+As you may know my name is Ícaro Onofre Silva(Ícaro as in the myth Icarus!), 
 I am an enthusiast of computers and full stack developer I am currently working as 
-a full stack developer at Khanum. I have a couple of projects that vary acording to which is the
+a freelancer. I have a couple of projects that vary acording to which is the
 main motivation at the moment, check out my portifolio and see the main repos of my github!
-
 
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
